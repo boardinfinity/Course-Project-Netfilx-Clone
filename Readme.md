@@ -1,5 +1,5 @@
 # IDE
-VScode: [Click here]([Link](https://code.visualstudio.com/download)) to download vscode
+VScode: [Click here](https://code.visualstudio.com/download) to download vscode
 
 
 # final-code
